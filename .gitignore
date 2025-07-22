@@ -1,0 +1,4 @@
+.venv
+ckpt/*
+!ckpt/.gitkeep
+test.png

@@ -1,0 +1,7 @@
+[submodule "libs/sam2"]
+	path = libs/sam2
+	url = https://github.com/facebookresearch/sam2
+
+[submodule "libs/dinov2"]
+	path = libs/dinov2
+	url = https://github.com/facebookresearch/dinov2
